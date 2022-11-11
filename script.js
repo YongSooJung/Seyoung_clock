@@ -23,3 +23,7 @@ function getTime(){
 
 getTime()
 setInterval(getTime, 1000)
+
+function welcome(){
+    alert('Welcome to My Mobile Home')
+}
